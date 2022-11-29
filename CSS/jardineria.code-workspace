@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "D:/Escuela/Epueque daniel"
+		},
+		{
+			"path": "../../jardineria"
+		},
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "jardineria"
+    }
+}
