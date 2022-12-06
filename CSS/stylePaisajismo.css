@@ -1,44 +1,18 @@
-* {
-    margin-top: 0;
-    padding-left: 0;
-}
-
-body {
-    background-color: rgb(135, 234, 194);
+* h1 {
+    color: rgba(236, 8, 133, 0.411);
+    text-align: center;
 }
 
 #contenedor {
-    color: black;
-    background-color: coral;
-    width: 180px;
-    height: 45px;
-    margin-left: 550px;
-    text-align: center;
+    width: 1100px;
+    margin: 0 auto;
 }
 
-#paisa {
-    text-align: center;
-    background-color: coral;
-    width: 800px;
-    height: 500px;
-    margin-left: 250px;
-    margin-top: 30px;
+#encabezado {
+    height: 120px;
+    background: #df1f7f;
 }
 
-#tips {
-    text-align: center;
-    background-color: coral;
-    width: 800px;
-    height: 600px;
-    margin-left: 250px;
-    margin-top: 30px;
-}
-
-#info {
-    text-align: center;
-    background-color: coral;
-    width: 800px;
-    height: 200px;
-    margin-left: 250px;
-    margin-top: 30px;
+#contenido {
+    background: #ebb4cd;
 }
