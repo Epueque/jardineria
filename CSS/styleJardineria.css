@@ -1,5 +1,5 @@
 * h1 {
-    color: rgba(228, 18, 193, 0.411);
+    color: rgba(241, 77, 173, 0.411);
     text-align: center;
 }
 
@@ -10,9 +10,9 @@
 
 #encabezado {
     height: 120px;
-    background: #43ac92;
+    background: #df1f7f;
 }
 
 #contenido {
-    background: #54bb7c;
+    background: #afd4bd;
 }
