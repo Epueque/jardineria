@@ -26,7 +26,7 @@
                         
                         #tips {
                             background-color: coral;
-                            margin-top: 10px;
+                            margin-top: 20px;
                             height: auto;
                             width: 720px;
                             margin-left: 0px;
@@ -45,7 +45,7 @@
                             height: auto;
                             width: 190px;
                             margin-left: 50px;
-                            margin-top: 10px;
+                            margin-top: 20px;
                             text-align: center;
                         }
                         
@@ -70,4 +70,12 @@
                         .img2 {
                             border: 3px solid black;
                             height: 355px;
+                        }
+                        
+                        #paisajista {
+                            background-color: coral;
+                            text-align: center;
+                            height: 500px;
+                            width: 850px;
+                            margin-left: 230px;
                         }
