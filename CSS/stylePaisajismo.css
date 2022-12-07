@@ -3,5 +3,9 @@ body {
 }
 
 #paisajismo {
-    margin-left: 70px;
+    margin-left: 60px;
+    width: 900px;
+    height: 500px;
+    background-color: coral;
+    text-align: center;
 }
