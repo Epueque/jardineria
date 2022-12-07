@@ -6,11 +6,11 @@ body {
     text-align: center;
     background-color: coral;
     width: 190px;
-    margin-left: 520px;
+    margin-left: 530px;
 }
 
 #paisajismo {
-    margin-left: 120px;
+    margin-left: 140px;
     width: 1000px;
     height: 500px;
     background-color: coral;
@@ -28,6 +28,18 @@ body {
     margin-top: 10px;
     height: auto;
     width: 750px;
-    margin-left: 230px;
+    margin-left: 147px;
     text-align: center;
+}
+
+#cajatr {
+    display: flex;
+    gap: 20px;
+}
+
+#redes {
+    background-color: coral;
+    margin-top: 10px;
+    height: 180px;
+    width: auto;
 }
