@@ -4,13 +4,13 @@
     
     #titulo {
         text-align: center;
-        background-color: coral;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         width: 190px;
         margin-left: 530px;
     }
     
     #paisajismo {
-        margin-left: 140px;
+        margin-left: 150px;
         width: 1000px;
         height: 500px;
         background-color: coral;
@@ -28,7 +28,7 @@
         margin-top: 10px;
         height: auto;
         width: 720px;
-        margin-left: 143px;
+        margin-left: 0px;
         text-align: center;
     }
     
@@ -42,7 +42,7 @@
     #info {
         background-color: coral;
         height: auto;
-        width: 200px;
+        width: 190px;
         margin-left: 50px;
         margin-top: 10px;
     }
