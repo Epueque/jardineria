@@ -1,62 +1,73 @@
-    body {
-        background-color: aqua;
-    }
-    
-    #titulo {
-        text-align: center;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        width: 190px;
-        margin-left: 530px;
-    }
-    
-    #paisajismo {
-        margin-left: 150px;
-        width: 1000px;
-        height: 500px;
-        background-color: coral;
-        text-align: center;
-    }
-    
-    #img {
-        display: flex;
-        justify-content: center;
-        gap: 30px;
-    }
-    
-    #tips {
-        background-color: coral;
-        margin-top: 10px;
-        height: auto;
-        width: 720px;
-        margin-left: 0px;
-        text-align: center;
-    }
-    
-    #redes {
-        background-color: coral;
-        margin-top: 10px;
-        height: 230px;
-        width: auto;
-    }
-    
-    #info {
-        background-color: coral;
-        height: auto;
-        width: 190px;
-        margin-left: 50px;
-        margin-top: 10px;
-        text-align: center;
-    }
-    
-    #cajatr {
-        display: flex;
-        justify-content: center;
-    }
-    
-    a:link {
-        color: blue;
-    }
-    
-    a:link {
-        color: crimson;
-    }
+                        body {
+                            background-color: aqua;
+                        }
+                        
+                        #titulo {
+                            text-align: center;
+                            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                            font-size: large;
+                            width: 190px;
+                            margin-left: 530px;
+                        }
+                        
+                        #paisajismo {
+                            margin-left: 165px;
+                            width: 1000px;
+                            height: 500px;
+                            background-color: coral;
+                            text-align: center;
+                        }
+                        
+                        #img {
+                            display: flex;
+                            justify-content: center;
+                            gap: 30px;
+                        }
+                        
+                        #tips {
+                            background-color: coral;
+                            margin-top: 10px;
+                            height: auto;
+                            width: 720px;
+                            margin-left: 0px;
+                            text-align: center;
+                        }
+                        
+                        #redes {
+                            background-color: coral;
+                            margin-top: 10px;
+                            height: 230px;
+                            width: auto;
+                        }
+                        
+                        #info {
+                            background-color: coral;
+                            height: auto;
+                            width: 190px;
+                            margin-left: 50px;
+                            margin-top: 10px;
+                            text-align: center;
+                        }
+                        
+                        #cajatr {
+                            display: flex;
+                            justify-content: center;
+                        }
+                        
+                        a:link {
+                            color: blue;
+                        }
+                        
+                        a:link {
+                            color: crimson;
+                        }
+                        
+                        .img1 {
+                            border: 3px solid black;
+                            height: 380px;
+                        }
+                        
+                        .img2 {
+                            border: 3px solid black;
+                            height: 355px;
+                        }
