@@ -2,9 +2,16 @@ body {
     background-color: aqua;
 }
 
+#titulo {
+    text-align: center;
+    background-color: coral;
+    width: 190px;
+    margin-left: 520px;
+}
+
 #paisajismo {
-    margin-left: 60px;
-    width: 900px;
+    margin-left: 120px;
+    width: 1000px;
     height: 500px;
     background-color: coral;
     text-align: center;
