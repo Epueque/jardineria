@@ -45,9 +45,18 @@
         width: 190px;
         margin-left: 50px;
         margin-top: 10px;
+        text-align: center;
     }
     
     #cajatr {
         display: flex;
         justify-content: center;
+    }
+    
+    a:link {
+        color: blue;
+    }
+    
+    a:link {
+        color: crimson;
     }
