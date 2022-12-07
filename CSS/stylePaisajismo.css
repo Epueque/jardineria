@@ -43,3 +43,10 @@ body {
     height: 230px;
     width: auto;
 }
+
+#info {
+    background-color: coral;
+    margin-top: 15px;
+    text-align: center;
+    width: 800px;
+}
