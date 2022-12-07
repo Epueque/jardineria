@@ -22,3 +22,12 @@ body {
     justify-content: center;
     gap: 30px;
 }
+
+#tips {
+    background-color: coral;
+    margin-top: 10px;
+    height: auto;
+    width: 750px;
+    margin-left: 230px;
+    text-align: center;
+}
