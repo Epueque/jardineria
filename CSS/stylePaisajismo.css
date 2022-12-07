@@ -5,7 +5,7 @@
                         #titulo {
                             text-align: center;
                             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-                            font-size: large;
+                            font-size: larger;
                             width: 190px;
                             margin-left: 530px;
                         }
@@ -27,17 +27,20 @@
                         #tips {
                             background-color: coral;
                             margin-top: 20px;
-                            height: auto;
+                            height: 620px;
                             width: 720px;
                             margin-left: 0px;
                             text-align: center;
                         }
                         
                         #redes {
-                            background-color: coral;
+                            background-color: rgb(194, 74, 31);
                             margin-top: 10px;
-                            height: 230px;
-                            width: auto;
+                            height: 100px;
+                            width: 900px;
+                            display: flex;
+                            margin-left: 200px;
+                            border: 3px solid rgb(121, 56, 33);
                         }
                         
                         #info {
@@ -78,4 +81,18 @@
                             height: 500px;
                             width: 850px;
                             margin-left: 230px;
+                        }
+                        
+                        .img3 {
+                            border: 3px solid black;
+                            height: 350px;
+                            width: 650px;
+                            margin-left: 30px;
+                        }
+                        
+                        .img4 {
+                            border: 3px solid black;
+                            height: 350px;
+                            width: 550px;
+                            margin-left: 140px;
                         }
